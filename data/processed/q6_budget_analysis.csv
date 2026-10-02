@@ -1,0 +1,64 @@
+province,programme,spend_2022_23,spend_2023_24,budget_2025_26,adjusted_2025_26,budget_adjustment_pct
+Eastern Cape,Health Sciences and Training,985706.0,1076571.0,1186843.0,1074794.0,-9.44
+Eastern Cape,Health Care Support Services,115053.0,112696.0,248101.0,248646.0,0.22
+Eastern Cape,Central Hospital Services,4713574.0,4928873.0,5760414.0,5835971.0,1.31
+Eastern Cape,Emergency Medical Services,1452877.0,1360385.0,1638706.0,1670587.0,1.95
+Eastern Cape,District Health Services,15077221.0,15618191.0,15773326.0,16361975.0,3.73
+Eastern Cape,Health Facilities Management,1071575.0,1018088.0,1454707.0,1524706.0,4.81
+Eastern Cape,Provincial Hospital Services,3926710.0,4253340.0,4701833.0,4975237.0,5.81
+Free State,Health Sciences and Training,321422.0,278633.0,322510.0,301510.0,-6.51
+Free State,Health Facilities Management,790957.0,759213.0,623662.0,626584.0,0.47
+Free State,Emergency Medical Services,1004356.0,977237.0,995765.0,1011765.0,1.61
+Free State,Central Hospital Services,2892871.0,2987727.0,3385732.0,3442935.0,1.69
+Free State,District Health Services,6005464.0,5820011.0,6279932.0,6460160.0,2.87
+Free State,Provincial Hospital Services,1687731.0,1711951.0,1997391.0,2078740.0,4.07
+Free State,Health Care Support Services,159283.0,164963.0,175655.0,253112.0,44.1
+Gauteng,Health Sciences and Training,638217.0,699524.0,935254.0,835254.0,-10.69
+Gauteng,Provincial Hospital Services,11082431.0,12030090.0,13370085.0,13478456.0,0.81
+Gauteng,Emergency Medical Services,2010941.0,2065186.0,2244019.0,2270019.0,1.16
+Gauteng,District Health Services,19352712.0,20405673.0,22756387.0,23196234.0,1.93
+Gauteng,Central Hospital Services,21485422.0,21548575.0,23426595.0,23922360.0,2.12
+Gauteng,Health Facilities Management,1665469.0,1832135.0,1897646.0,1987646.0,4.74
+Gauteng,Health Care Support Services,437302.0,439361.0,497023.0,523023.0,5.23
+KwaZulu-Natal,Health Sciences and Training,1338906.0,1340622.0,1589963.0,1525930.0,-4.03
+KwaZulu-Natal,Health Care Support Services,361109.0,413172.0,394739.0,384399.0,-2.62
+KwaZulu-Natal,Central Hospital Services,5663085.0,5859945.0,6223266.0,6209647.0,-0.22
+KwaZulu-Natal,Emergency Medical Services,1667866.0,1691566.0,1870639.0,1875499.0,0.26
+KwaZulu-Natal,Health Facilities Management,1912676.0,1907685.0,2053564.0,2112252.0,2.86
+KwaZulu-Natal,Provincial Hospital Services,12334527.0,13187626.0,13886586.0,14509275.0,4.48
+KwaZulu-Natal,District Health Services,27129373.0,27453608.0,28792022.0,30097146.0,4.53
+Limpopo,Health Sciences and Training,638965.0,597678.0,658644.0,645770.0,-1.95
+Limpopo,Health Care Support Services,224814.0,164852.0,180591.0,180591.0,0.0
+Limpopo,District Health Services,15406170.0,15873344.0,17277371.0,17374197.0,0.56
+Limpopo,Provincial Hospital Services,2718303.0,2902441.0,3176333.0,3274873.0,3.1
+Limpopo,Emergency Medical Services,1038525.0,1577141.0,1197575.0,1244075.0,3.88
+Limpopo,Central Hospital Services,2090968.0,2302326.0,2366213.0,2483517.0,4.96
+Limpopo,Health Facilities Management,1016165.0,887940.0,907242.0,1077927.0,18.81
+Mpumalanga,Health Sciences and Training,519204.0,515275.0,587240.0,563349.0,-4.07
+Mpumalanga,Emergency Medical Services,439359.0,473944.0,576307.0,575742.0,-0.1
+Mpumalanga,Health Facilities Management,1531678.0,1754342.0,1775536.0,1787116.0,0.65
+Mpumalanga,Central Hospital Services,1727170.0,1841571.0,2204272.0,2262618.0,2.65
+Mpumalanga,Provincial Hospital Services,1679658.0,1710152.0,2000242.0,2071388.0,3.56
+Mpumalanga,District Health Services,10496986.0,10672245.0,11779259.0,12232827.0,3.85
+Mpumalanga,Health Care Support Services,281963.0,360673.0,407028.0,489168.0,20.18
+North West,Health Sciences and Training,269166.0,269202.0,312923.0,287770.0,-8.04
+North West,Health Facilities Management,725168.0,792685.0,687605.0,687605.0,0.0
+North West,Emergency Medical Services,481299.0,447136.0,524874.0,530177.0,1.01
+North West,Central Hospital Services,2249917.0,2422158.0,2638494.0,2688908.0,1.91
+North West,Provincial Hospital Services,2173749.0,2325712.0,2312739.0,2376641.0,2.76
+North West,District Health Services,7866374.0,7826617.0,8493335.0,8849687.0,4.2
+North West,Health Care Support Services,776473.0,728570.0,803699.0,856840.0,6.61
+Northern Cape,Health Sciences and Training,172024.0,320538.0,359594.0,255094.0,-29.06
+Northern Cape,Health Care Support Services,194234.0,168921.0,153794.0,153794.0,0.0
+Northern Cape,Central Hospital Services,1226125.0,1206941.0,1358231.0,1407273.0,3.61
+Northern Cape,District Health Services,2757591.0,2958068.0,3100177.0,3238484.0,4.46
+Northern Cape,Provincial Hospital Services,453601.0,520064.0,558497.0,589493.0,5.55
+Northern Cape,Emergency Medical Services,416648.0,505849.0,477712.0,521403.0,9.15
+Northern Cape,Health Facilities Management,407209.0,452885.0,577680.0,652680.0,12.98
+Western Cape,Health Sciences and Training,383735.0,418753.0,451901.0,451086.0,-0.18
+Western Cape,Health Facilities Management,1115356.0,1169466.0,1397800.0,1406573.0,0.63
+Western Cape,Provincial Hospital Services,4506521.0,4801042.0,5136297.0,5198019.0,1.2
+Western Cape,Emergency Medical Services,1302918.0,1349750.0,1447460.0,1466976.0,1.35
+Western Cape,Health Care Support Services,527713.0,618626.0,691377.0,702677.0,1.63
+Western Cape,Central Hospital Services,7927831.0,8149924.0,8663068.0,8847474.0,2.13
+Western Cape,District Health Services,12036821.0,12155573.0,13219549.0,13503836.0,2.15
