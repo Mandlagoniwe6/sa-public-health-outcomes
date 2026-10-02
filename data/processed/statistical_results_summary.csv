@@ -1,0 +1,6 @@
+model,outcome_variable,r_squared,f_pvalue,significant,key_finding
+Model 1 - Province OLS,ANC Coverage,0.0025,0.8987,No,Spending alone cannot predict ANC at province level
+Model 2 - District OLS,ANC Coverage,0.0013,0.7993,No,Confirmed at district level with 52 observations
+Model 3 - Multiple Regression,ANC Coverage,0.1331,0.0,Yes,Immunisation rate only significant predictor (β=0.356)
+Model 4 - Maternal Mortality,Maternal Mortality,0.0305,0.6818,No,Maternal mortality driven by unmeasured facility factors
+ANOVA - Provincial Differences,ANC Coverage,,0.0,Yes,Provincial inequalities are real — F=26.95
